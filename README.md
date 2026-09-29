@@ -6,7 +6,7 @@
 {
   "name": "Michael Silverio",
   "role": "AI Engineer & Full-Stack Developer",
-  "experience": "5+ years",
+  "experience": "6+ years",
   "location": { "country": "Philippines", "remote": true },
   "focus": ["AI-powered products", "SaaS platforms", "HR & ERP systems"],
   "stack": {
